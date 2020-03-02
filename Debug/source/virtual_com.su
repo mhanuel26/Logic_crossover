@@ -1,0 +1,17 @@
+core_cm7.h:1902:22:__NVIC_EnableIRQ	16	static
+core_cm7.h:2030:22:__NVIC_SetPriority	16	static
+core_cm7.h:2584:26:SysTick_Config	16	static
+fsl_clock.h:708:20:CLOCK_SetMux	24	static
+fsl_clock.h:745:20:CLOCK_SetDiv	24	static
+fsl_common.h:442:28:EnableIRQ	16	static
+fsl_flexio_logic.h:188:20:FLEXIO_LOGIC_Enable	16	static
+virtual_com.c:153:6:SysTick_Handler	4	static
+virtual_com.c:161:6:SysTick_DelayTicks	16	static
+virtual_com.c:169:6:USB_OTG1_IRQHandler	8	static
+virtual_com.c:174:6:USB_DeviceClockInit	16	static
+virtual_com.c:186:6:USB_DeviceIsrEnable	16	static
+virtual_com.c:214:14:USB_DeviceCdcVcomCallback	48	static
+virtual_com.c:465:14:USB_DeviceCallback	40	static
+virtual_com.c:555:6:APPInit	8	static
+virtual_com.c:657:6:APPTask	40	static
+virtual_com.c:783:5:main	16	static
